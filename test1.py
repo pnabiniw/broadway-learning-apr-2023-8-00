@@ -9,3 +9,4 @@ print(a ** 2)
 
 ### Next change
 
+print(input("Enter your name: "))
