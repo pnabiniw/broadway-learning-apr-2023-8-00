@@ -9,7 +9,7 @@
 
 # Setting git configuration
 # 1. git config --global user.name "<your-username>"
-# 2. git config --global user.email "<your-email"
+# 2. git config --global  user.email "<your-email"
 
 
 # Generating ssh key pair
